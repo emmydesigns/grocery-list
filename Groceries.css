@@ -1,0 +1,40 @@
+div {
+    border: 2px solid rgb(115, 192, 224);
+}
+
+.special {
+    font-style: italic
+}
+
+.completed {
+    text-decoration: line-through
+}
+
+.dairy {
+    color: black;
+}
+
+.meat {
+    color: saddlebrown;
+}
+
+.veggies {
+    color: darkgreen;
+}
+
+.grains {
+    color: peru;
+}
+
+.fruit {
+    color: palevioletred;
+}
+
+.ingredients {
+    color: royalblue;
+}
+
+* {
+    text-decoration-line: underline;
+    text-decoration-color: violet;
+}
